@@ -3,7 +3,7 @@ PROJECT TITLE-
 A NEW KENYAN CLASSIC
 
 Project description
-This project is about a web application that enables the users to; =>Order foodfrom the web app. =>It allows the user to choose from the variety of food that is available for order according to their preference. =>Allows the user to submit their reviews about the food ordered
+This project is about a web application that enables the users to; =>Order cocktail drink from the web app. =>It allows the user to choose from the variety of cocktails that is available for order according to their preference. =>Allows the user to submit their reviews about the food ordered
 
 How to access this project
 In the terminal,,navigate to the folder you want to work with. Fork and clone the github repository into your working environment. Open the code using vscode or your preferred IDE. Open the integrated terminal by right clicking in the folder . Run the following code to get the Backend started: npm install -g json-server
