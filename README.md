@@ -13,7 +13,7 @@ Run the following code to enable json to watch over the db.json file
       json-server --watch db.json
 Test your server by visiting this route in the browser:
 
-http://localhost:3000/foodiking
+https://pbs.twimg.com/profile_images/1259394050/pepp_logo_400x400.jpg
 
 Then, open the index.html file on your browser to run the application. The base URL for your API will be http://localhost:3000
 
