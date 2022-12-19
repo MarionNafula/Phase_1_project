@@ -1,6 +1,6 @@
 # Phase_1_project
 PROJECT TITLE-
-CEE DINES ONESTOP ORDER IN
+A NEW KENYAN CLASSIC
 
 Project description
 This project is about a web application that enables the users to; =>Order foodfrom the web app. =>It allows the user to choose from the variety of food that is available for order according to their preference. =>Allows the user to submit their reviews about the food ordered
