@@ -15,6 +15,8 @@ Test your server by visiting this route in the browser:
 
 https://pbs.twimg.com/profile_images/1259394050/pepp_logo_400x400.jpg
 
-Then, open the index.html file on your browser to run the application. The base URL for your API will be http://localhost:3000
+Then, open the index.html file on your browser to run the application. The base URL for your API will be 
+
+htpp://www.thecocktail.com/api/json/v1/search.php?s
 
 Go to the html file and click on Go live extension to run the code inorder to display in the browser.
