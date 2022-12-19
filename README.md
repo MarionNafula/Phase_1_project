@@ -13,7 +13,7 @@ Run the following code to enable json to watch over the db.json file
       json-server --watch db.json
 Test your server by visiting this route in the browser:
 
-https://pbs.twimg.com/profile_images/1259394050/pepp_logo_400x400.jpg
+Bear Tavern | 1234 Telegrapg Ave, Berkeley, CA 12345 | (555) 555-5555 | beartavern@email.com
 
 Then, open the index.html file on your browser to run the application. The base URL for your API will be 
 
