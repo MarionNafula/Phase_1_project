@@ -1,0 +1,171 @@
+body {
+           margin: 0;
+           padding: 0;
+           font-family: "Source Sans Pro", sans-serif;
+           font-size: 20px;
+         }
+         a:focus{
+           color:white;
+         }
+         header nav {
+           text-align: center;
+           background: transparent;
+           color: white;
+           font-size: 25px;
+           position: fixed;
+           width: 100%;
+           text-shadow: 2px 2px 4px #000000;
+           z-index: 1000;
+         }
+         .nav-bar {
+           color: inherit;
+           text-decoration: none;
+           display: inline-block;
+           padding: 1em 1em .5em;
+           -webkit-transition: all .3s ease-in;
+         }
+         .nav-logo {
+           height: 140px;
+         }
+         .move-nav-logo {
+           margin: -500px -70px 0px;
+         }
+         .small {
+           padding: .5em 1em;
+         }
+         .formatnav {
+           background-color: black;
+         }
+         header nav a:hover {
+           text-decoration: underline;
+           color: white;
+         }
+         #bear {
+           color:white;
+         }
+         .active {
+           background: rgba(255,255,255,0.3);
+         }
+         
+         .jumbotron {
+           height: 800px;
+           background-image: url('http://www.trbimg.com/img-558059bf/turbine/ct-dining-0618-vettel-outdoors-20150612');
+           background-position: center center;
+           text-align: center;
+         }
+         .container {
+           margin: 400px auto;
+           color: white;
+           text-shadow: 2px 2px 4px #000000;
+         }
+         .jumbotron h1 {
+           font-size: 4em;
+         }
+         .jumbotron p {
+           text-transform: uppercase;
+           font-size: .4em;
+         }
+         .jumbotron span {
+           text-transform: none;
+         }
+         .portion {
+           
+           background-image:  url('https://lauralovesfitness.files.wordpress.com/2011/10/istock_000015335869large5.jpg');
+           background-position: center center;
+           background-attachment: fixed;
+           background-size: cover;
+           text-align: center;
+         }
+         .portion.two {
+           background-image: url('http://files.cluster2.hgsitebuilder.com/hostgator29002/image/restaurant.jpg');
+         }
+         .portion h2 {
+           color: white;
+           font-weight: normal;
+           font-size: 3em;
+           padding: 2em 0;
+           margin: 0;
+           text-shadow: 0 0 10px black;
+           background: rgba(0,0,0,0.6);
+         }
+         .info {
+           background-color: white;
+           color: black;
+           padding: 3em 20%;
+         }
+         #logo {
+           height: 200px;
+         }
+         .menu-container h3 {
+           text-align: center;
+           padding-bottom: 20px;
+           text-transform: uppercase;
+         }
+         .menu-container span {
+           text-transform: none;
+         }
+         h6 {
+           display: inline;
+           font-family: Verdana;
+           font-size: 18px;
+           font-weight: bold;
+         }
+         .row {
+           padding: 10px 0;
+         }
+         .price {
+           float: right;
+         }
+         .dranks {
+           background: black;
+           margin: -20px 0 -10px;
+           padding: 3em 20%;
+           color:white;
+         }
+         .dranks h3 {
+           text-align: center;
+           font-size: 25px;
+           text-transform: uppercase;
+           text-decoration: underline;
+           padding-bottom: 30px;
+           padding-top: 45px;
+           margin-top: -20px;
+         }
+         .reservations-container {
+           text-align: center;
+         }
+         .reservations-container h3{
+           text-transform: uppercase;
+           margin-top: 60px;
+         }
+         .btn {
+           margin-bottom: 100px;
+         }
+         footer.info {
+           color: white;
+           background: black;
+           padding: 0 auto;
+           text-align: center;
+         }
+         footer p {
+           margin: 35px
+         }
+         .move {
+           top: -60px;
+         }
+         
+         nav span {
+           position: absolute;
+           left: 40px;
+           top: 6px;
+           font-weight: bold;
+           transition: all 0.5s ease-in;
+         }
+         
+         .movetext {
+           top: -30px;
+         }
+         .media-container a{
+           color: white;
+         }
+         
