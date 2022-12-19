@@ -22,7 +22,7 @@ body {
            text-decoration: none;
            display: inline-block;
            padding: 1em 1em .5em;
-           -webkit-transition: all .3s ease-in;
+           wedkit-transition: all .3s ease-in;
          }
          .nav-logo {
            height: 140px;
